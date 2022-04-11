@@ -8,3 +8,4 @@ Jogo semelhante ao jogo da cobra antigo, onde o objetivo é aumentar o tamanho d
 
 ## Tecnologias Utilizadas
 --**HTML:** _Estrutura do SITE_
+--**Css:** _Pequena tentativa de uso_
