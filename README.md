@@ -29,7 +29,7 @@ Um simulador de jogo da velha em que o usuario coloca os "x" e "o" nas grades da
 
 |    Tela inicial     |     Tela de Vitória     |
 |-------------------- | ------------------------|
-| (img/Imagen1.png)   |      (img/Imagen2.png)  | 
+| ![Tela Inicial](img/Imagen1.png)   |  ![Tela De Vitória](img/Imagen2.png)  | 
 
 
 
