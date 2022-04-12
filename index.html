@@ -2,11 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo Xy </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>jogo da Velha</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-       <h1> Meu pau de 45tonelada </h1>
+    
+    <h1>Jogo da Velha#</h1>
+    <div class='game'></div>
+    <button class="btn" onclick="jogo_da_velha.restart()" title="Restart this game">Restart</button>
+
+    <script src="Funcao.js"></script>
+    <script>
+        jogo_da_velha.init( document.querySelector('.game') );
+        jogo_da_velha.start();
+    </script>
+    
 </body>
 </html>
